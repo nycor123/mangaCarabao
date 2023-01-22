@@ -1,5 +1,5 @@
 const chapters = {
-    Ch1071: [
+    1071: [
         "https://cdn.readdetectiveconan.com/file/mangap/2/11071000/1.png",
         "https://cdn.readdetectiveconan.com/file/mangap/2/11071000/2.png",
         "https://cdn.readdetectiveconan.com/file/mangap/2/11071000/3.png",
@@ -15,7 +15,7 @@ const chapters = {
         "https://cdn.readdetectiveconan.com/file/mangap/2/11071000/13.png",
         "https://cdn.readdetectiveconan.com/file/mangap/2/11071000/14.png"
     ],
-    Ch1070: [
+    1070: [
         "https://cdn.readdetectiveconan.com/file/mangap/2/11070000/1.png",
         "https://cdn.readdetectiveconan.com/file/mangap/2/11070000/2.png",
         "https://cdn.readdetectiveconan.com/file/mangap/2/11070000/3.png",
