@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/manga-carabao/precache-manifest.4cab72fcc01a6b8adf7dc518916f2380.js"
+  "/mangaCarabao/precache-manifest.d820b4f490b4d34eba379ae888cd602b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/manga-carabao/index.html", {
+workbox.routing.registerNavigationRoute("/mangaCarabao/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
