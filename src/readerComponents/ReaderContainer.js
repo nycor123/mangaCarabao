@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { Container } from 'react-bootstrap';
-import { Header } from './navigationComponents/Header';
-import { Footer } from './navigationComponents/Footer';
+import { Header } from '../navigationComponents/Header';
+import { Footer } from '../navigationComponents/Footer';
 import { Reader } from './Reader';
-import onePieceChapters from './OnePiece';
+import onePieceChapters from '../OnePiece';
 
-function App() {
+export function ReaderContainer() {
   const [manga, setManga] = useState({
     title: "One Piece",
     chapters: onePieceChapters
@@ -36,5 +36,3 @@ function App() {
     </Container>
   );
 }
-
-export default App;

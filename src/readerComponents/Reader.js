@@ -7,7 +7,7 @@ export function Reader(props) {
     const pages = props.pageUrls != null ? 
     props.pageUrls.map(url => {
         return (
-            <li id={url}>
+            <li key={url}>
                 <Image fluid={true} src={url} />
             </li>
         );
