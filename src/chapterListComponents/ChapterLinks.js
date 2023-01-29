@@ -13,8 +13,6 @@ export function ChapterLinks(props) {
     );
 
     return (
-        <ul>
-            {chapterLinks}
-        </ul>
+        <ul>{chapterLinks}</ul>
     );
 }
