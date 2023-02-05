@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Navbar, NavItem, NavLink } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import { ReactComponent as AvatarIcon } from "../svg/avatarIcon.svg";
 import { ReactComponent as SearchIcon } from "../svg/searchIcon.svg";
 import { default as logo } from "../svg/brandLogo.svg";
@@ -28,11 +29,11 @@ export function Header() {
     return (
         <Navbar bg="light" expand="lg">
             <Navbar.Toggle aria-controls="basic-navbar-nav" className='mx-3' />
-            <Navbar.Brand href="#" className='mx-3'>
-                <img src={brandLogo} />
+            <Navbar.Brand className='mx-3'>
+                <Link to='/'><img alt="Brand Logo" src={brandLogo} /></Link>
             </Navbar.Brand>
             <Navbar.Collapse id="basic-navbar-nav" className='justify-content-end me-2'>
-                <NavLink className='mx-2'>Directory</NavLink>
+                <Link className='mx-2' to='/directory' style={{textDecoration: 'none', color: 'inherit'}}>Directory</Link>
                 <NavLink className='mx-2'>Popular</NavLink>
                 <NavLink className='mx-2'>Updates</NavLink>
                 <NavLink className='mx-2'>New</NavLink>
