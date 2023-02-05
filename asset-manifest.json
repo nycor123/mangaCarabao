@@ -1,9 +1,9 @@
 {
-  "main.js": "/mangaCarabao/static/js/main.e2504585.chunk.js",
-  "main.js.map": "/mangaCarabao/static/js/main.e2504585.chunk.js.map",
-  "static/css/1.614e7e2a.chunk.css": "/mangaCarabao/static/css/1.614e7e2a.chunk.css",
-  "static/js/1.85faad79.chunk.js": "/mangaCarabao/static/js/1.85faad79.chunk.js",
-  "static/js/1.85faad79.chunk.js.map": "/mangaCarabao/static/js/1.85faad79.chunk.js.map",
+  "main.js": "/mangaCarabao/static/js/main.f520cf7f.chunk.js",
+  "main.js.map": "/mangaCarabao/static/js/main.f520cf7f.chunk.js.map",
+  "static/css/1.56b89e59.chunk.css": "/mangaCarabao/static/css/1.56b89e59.chunk.css",
+  "static/js/1.24bb611d.chunk.js": "/mangaCarabao/static/js/1.24bb611d.chunk.js",
+  "static/js/1.24bb611d.chunk.js.map": "/mangaCarabao/static/js/1.24bb611d.chunk.js.map",
   "runtime~main.js": "/mangaCarabao/static/js/runtime~main.4d502d99.js",
   "runtime~main.js.map": "/mangaCarabao/static/js/runtime~main.4d502d99.js.map",
   "static/media/brandLogo.svg": "/mangaCarabao/static/media/brandLogo.287e5ec8.svg",
@@ -12,8 +12,8 @@
   "static/media/searchIcon.468b59ea.svg": "/mangaCarabao/static/media/searchIcon.468b59ea.svg",
   "static/media/leftArrow.def198d7.svg": "/mangaCarabao/static/media/leftArrow.def198d7.svg",
   "static/media/rightArrow.01cd2570.svg": "/mangaCarabao/static/media/rightArrow.01cd2570.svg",
-  "static/css/1.614e7e2a.chunk.css.map": "/mangaCarabao/static/css/1.614e7e2a.chunk.css.map",
+  "static/css/1.56b89e59.chunk.css.map": "/mangaCarabao/static/css/1.56b89e59.chunk.css.map",
   "index.html": "/mangaCarabao/index.html",
-  "precache-manifest.d820b4f490b4d34eba379ae888cd602b.js": "/mangaCarabao/precache-manifest.d820b4f490b4d34eba379ae888cd602b.js",
+  "precache-manifest.919ef672a2a68bd6bd8e3704a8e3d6dc.js": "/mangaCarabao/precache-manifest.919ef672a2a68bd6bd8e3704a8e3d6dc.js",
   "service-worker.js": "/mangaCarabao/service-worker.js"
 }

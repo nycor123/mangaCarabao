@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mangaCarabao/precache-manifest.d820b4f490b4d34eba379ae888cd602b.js"
+  "/mangaCarabao/precache-manifest.919ef672a2a68bd6bd8e3704a8e3d6dc.js"
 );
 
 workbox.clientsClaim();

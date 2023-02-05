@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e25045852a6a00121bf9",
-    "url": "/mangaCarabao/static/js/main.e2504585.chunk.js"
+    "revision": "f520cf7ffb922ef73f5b",
+    "url": "/mangaCarabao/static/js/main.f520cf7f.chunk.js"
   },
   {
-    "revision": "85faad79dd8789b789ab",
-    "url": "/mangaCarabao/static/css/1.614e7e2a.chunk.css"
+    "revision": "24bb611daee0dda2492c",
+    "url": "/mangaCarabao/static/css/1.56b89e59.chunk.css"
   },
   {
-    "revision": "85faad79dd8789b789ab",
-    "url": "/mangaCarabao/static/js/1.85faad79.chunk.js"
+    "revision": "24bb611daee0dda2492c",
+    "url": "/mangaCarabao/static/js/1.24bb611d.chunk.js"
   },
   {
     "revision": "4d502d99e2b0c51c2a4c",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/mangaCarabao/static/media/rightArrow.01cd2570.svg"
   },
   {
-    "revision": "1aa34e41388e5273a079eaa00bf81287",
+    "revision": "c7b175c002907d3e3fed36c9b86863a3",
     "url": "/mangaCarabao/index.html"
   }
 ];
