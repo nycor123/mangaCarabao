@@ -3,7 +3,7 @@ import { Navbar, NavItem } from 'react-bootstrap';
 import { ReactComponent as LeftArrow } from '../svg/leftArrow.svg';
 import { ReactComponent as RightArrow } from '../svg/rightArrow.svg';
 
-export function Footer(props) {
+export function ReaderNavigation(props) {
     return (
         <>
             <Navbar fixed="bottom" bg="light" className='justify-content-center'>
